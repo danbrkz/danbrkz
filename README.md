@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning : Python, HTML and Algorithms and programming logic<br>🎯 Goals : Improve my knowledge in programming and work doing what I love.<br>🎲 Fun fact : I parachuted into this world of programming and I intend to stay forever.</p>
+<p align="left">📚 I'm currently learning : Python, HTML and Algorithms and programming logic<br>🎯 Goals : Improve my knowledge in programming and work doing what I love.<br></p>
 
 ###
 
