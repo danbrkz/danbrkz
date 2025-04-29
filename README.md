@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning : Python, HTML and Algorithms and programming logic<br>🎯 Goals : Improve my knowledge in programming and work doing what I love.<br></p>
+<p align="left">📚 "I'm currently learning Python, HTML, and diving into algorithms and programming logic to become an ASP.NET | Angular developer."<br>🎯 Goals : Improve my knowledge in programming and work doing what I love.<br></p>
 
 ###
 
