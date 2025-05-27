@@ -17,7 +17,7 @@
 <h2 align="left">🚧 Current Projects</h2>
 
 <p align="left">
-  🔗 <a href="https://auralounge.com.br/" target="_blank">auralounge.com.br</a> - Menu and Internal Management System ( Internal Management System is a private link )
+  🔗 <a href="https://auralounge.com.br/" target="_blank">Aura Lounge</a> - Menu and Internal Management System ( Internal Management System is a private link )
 </p>
 
 ###
