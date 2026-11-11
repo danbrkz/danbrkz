@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Sistema Aura Lounge: gestão de casa noturna">
+  <defs>
+    <style>
+      .t { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+      .m { font-family: ui-monospace, SFMono-Regular, Consolas, Menlo, monospace; }
+    </style>
+    <radialGradient id="glow" cx="1" cy="0" r="0.75">
+      <stop offset="0" stop-color="#FF6B3D" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#FF6B3D" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="11" cy="11" r="1.2" fill="#26262B"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="420" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="420" fill="#111113"/>
+    <rect x="640" width="560" height="420" fill="url(#dots)"/>
+    <rect width="1200" height="420" fill="url(#glow)"/>
+
+    <!-- Texto -->
+    <text x="48" y="78" class="m" font-size="15" letter-spacing="2" fill="#FF6B3D">01 · SISTEMA DE GESTÃO</text>
+    <text x="48" y="132" class="t" font-size="44" font-weight="700" fill="#F1EFEA" letter-spacing="-1">Sistema Aura Lounge</text>
+    <text x="48" y="180" class="t" font-size="20" fill="#A8A49B">Gestão de casa noturna: pedidos por pulseira,</text>
+    <text x="48" y="208" class="t" font-size="20" fill="#A8A49B">caixa, estoque, relatórios e usuários.</text>
+    <text x="48" y="246" class="t" font-size="17" fill="#85817A">App instalável (PWA), publicação automática e backup do banco.</text>
+
+    <!-- Status -->
+    <rect x="48" y="272" width="96" height="30" rx="15" fill="#3DD68C" fill-opacity=".12"/>
+    <circle cx="67" cy="287" r="5" fill="#3DD68C" opacity=".6">
+      <animate attributeName="r" values="5;11;5" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".6;0;0" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="67" cy="287" r="5" fill="#3DD68C"/>
+    <text x="81" y="292.5" class="t" font-size="15" font-weight="600" fill="#3DD68C">no ar</text>
+    <rect x="154" y="272" width="146" height="30" rx="15" fill="#1F1F23"/>
+    <text x="227" y="292" class="t" font-size="14" fill="#9C988F" text-anchor="middle">código privado</text>
+
+    <!-- Tecnologias -->
+    <g class="m" font-size="14" fill="#CFCBC3">
+      <rect x="48" y="338" width="68" height="30" rx="15" fill="#1F1F23"/><text x="82" y="358" text-anchor="middle">PHP 8</text>
+      <rect x="126" y="338" width="68" height="30" rx="15" fill="#1F1F23"/><text x="160" y="358" text-anchor="middle">MySQL</text>
+      <rect x="204" y="338" width="110" height="30" rx="15" fill="#1F1F23"/><text x="259" y="358" text-anchor="middle">JavaScript</text>
+      <rect x="324" y="338" width="52" height="30" rx="15" fill="#1F1F23"/><text x="350" y="358" text-anchor="middle">PWA</text>
+      <rect x="386" y="338" width="146" height="30" rx="15" fill="#1F1F23"/><text x="459" y="358" text-anchor="middle">GitHub Actions</text>
+    </g>
+
+    <!-- Janela do sistema -->
+    <g transform="translate(690 64) rotate(-2 225 148)">
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;0 -8;0 0" dur="7s" repeatCount="indefinite"/>
+      <rect width="450" height="296" rx="16" fill="#0B0B0C" stroke="#26262A"/>
+      <circle cx="18" cy="18" r="5" fill="#333"/><circle cx="34" cy="18" r="5" fill="#333"/><circle cx="50" cy="18" r="5" fill="#333"/>
+      <text x="68" y="22" class="m" font-size="12" fill="#777">/sistemaa · Pedidos</text>
+      <line x1="0" y1="36" x2="450" y2="36" stroke="#1F1F23"/>
+
+      <text x="18" y="68" class="t" font-size="17" font-weight="700" fill="#F2F2F2">Pulseiras abertas</text>
+      <rect x="322" y="51" width="110" height="24" rx="12" fill="#FFFFFF"/>
+      <text x="377" y="67.5" class="t" font-size="12" font-weight="700" fill="#000" text-anchor="middle">+ Novo pedido</text>
+
+      <g class="t" font-size="11">
+        <rect x="18" y="84" width="84" height="22" rx="11" fill="#F2F2F2"/><text x="60" y="99" text-anchor="middle" font-weight="700" fill="#000">Abertas · 4</text>
+        <rect x="108" y="84" width="70" height="22" rx="11" fill="#1A1A1D"/><text x="143" y="99" text-anchor="middle" fill="#9A9A9A">Fechadas</text>
+        <rect x="184" y="84" width="52" height="22" rx="11" fill="#1A1A1D"/><text x="210" y="99" text-anchor="middle" fill="#9A9A9A">Caixa</text>
+      </g>
+
+      <!-- Cartões das pulseiras -->
+      <g>
+        <rect x="18" y="118" width="201" height="74" rx="12" fill="#161619"/>
+        <text x="30" y="142" class="t" font-size="14" font-weight="700" fill="#F2F2F2">#014</text>
+        <rect x="137" y="128" width="70" height="20" rx="10" fill="#222226"/><text x="172" y="142" class="m" font-size="11" fill="#CFCFCF" text-anchor="middle">0:42:14</text>
+        <text x="30" y="162" class="t" font-size="11" fill="#8C8C8C">Mesa 3</text>
+        <text x="30" y="182" class="m" font-size="16" font-weight="600" fill="#F2F2F2">R$ 186,00</text>
+      </g>
+      <g>
+        <rect x="231" y="118" width="201" height="74" rx="12" fill="#161619"/>
+        <text x="243" y="142" class="t" font-size="14" font-weight="700" fill="#F2F2F2">#027</text>
+        <rect x="350" y="128" width="70" height="20" rx="10" fill="#FF5252" fill-opacity=".16">
+          <animate attributeName="fill-opacity" values=".16;.32;.16" dur="1.6s" repeatCount="indefinite"/>
+        </rect>
+        <text x="385" y="142" class="m" font-size="11" fill="#FF7A7A" text-anchor="middle">3:10:02</text>
+        <text x="243" y="162" class="t" font-size="11" fill="#8C8C8C">Balcão</text>
+        <text x="243" y="182" class="m" font-size="16" font-weight="600" fill="#F2F2F2">R$ 412,50</text>
+      </g>
+      <g>
+        <rect x="18" y="202" width="201" height="74" rx="12" fill="#161619"/>
+        <text x="30" y="226" class="t" font-size="14" font-weight="700" fill="#F2F2F2">#031</text>
+        <rect x="137" y="212" width="70" height="20" rx="10" fill="#222226"/><text x="172" y="226" class="m" font-size="11" fill="#CFCFCF" text-anchor="middle">1:05:21</text>
+        <text x="30" y="246" class="t" font-size="11" fill="#8C8C8C">Camarote</text>
+        <text x="30" y="266" class="m" font-size="16" font-weight="600" fill="#F2F2F2">R$ 960,00</text>
+      </g>
+      <g>
+        <rect x="231" y="202" width="201" height="74" rx="12" fill="#161619"/>
+        <text x="243" y="226" class="t" font-size="14" font-weight="700" fill="#F2F2F2">#045</text>
+        <rect x="350" y="212" width="70" height="20" rx="10" fill="#222226"/><text x="385" y="226" class="m" font-size="11" fill="#CFCFCF" text-anchor="middle">0:12:25</text>
+        <text x="243" y="246" class="t" font-size="11" fill="#8C8C8C">Pista</text>
+        <text x="243" y="266" class="m" font-size="16" font-weight="600" fill="#F2F2F2">R$ 38,00</text>
+      </g>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="419" rx="28" fill="none" stroke="#2B2B30"/>
+</svg>
