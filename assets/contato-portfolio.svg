@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 96" width="400" height="96" role="img" aria-label="Portfólio: danbrkz.ink">
+  <defs>
+    <style>
+      .t { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+      .m { font-family: ui-monospace, SFMono-Regular, Consolas, Menlo, monospace; }
+    </style>
+    <radialGradient id="g" cx="0" cy=".5" r=".7">
+      <stop offset="0" stop-color="#FF6B3D" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#FF6B3D" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x=".5" y=".5" width="399" height="95" rx="24" fill="#111113" stroke="#2B2B30"/>
+  <rect x=".5" y=".5" width="399" height="95" rx="24" fill="url(#g)"/>
+  <circle cx="52" cy="48" r="28" fill="#FF6B3D"/>
+  <circle cx="52" cy="48" r="28" fill="none" stroke="#FF6B3D" stroke-opacity=".5">
+    <animate attributeName="r" values="28;36;28" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values=".5;0;0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <g transform="translate(40 36)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></g>
+  <text x="96" y="44" class="t" font-size="22" font-weight="700" fill="#F1EFEA">Portfólio</text>
+  <text x="96" y="70" class="m" font-size="14.5" fill="#9C988F">danbrkz.ink</text>
+  <text x="372" y="56" class="t" font-size="22" fill="#9C988F" text-anchor="middle">↗</text>
+</svg>
