@@ -10,11 +10,10 @@ e que a equipe aprende a usar em minutos.
 
 ### 🚀 Rodando hoje
 
-| Projeto | O que é |
-|---|---|
-| **Sistema Aura Lounge** | Gestão de casa noturna: pedidos por pulseira, caixa, estoque, relatórios e usuários. App instalável (PWA) com publicação automática e backup do banco. *Código privado.* |
-| **[Cardápio digital](https://auralounge.com.br)** | Cardápio online aberto pelo celular, editado direto no sistema, com fotos e preços sempre atualizados. |
-| **[Portfólio](https://danbrkz.ink)** | Meu site, com os projetos e as tecnologias que eu uso. |
+<a href="https://danbrkz.ink/#projetos"><img src="assets/aura.svg" width="100%" alt="Sistema Aura Lounge: gestão de casa noturna com pedidos por pulseira, caixa, estoque, relatórios e usuários"></a>
+
+<a href="https://auralounge.com.br"><img src="assets/cardapio.svg" width="49%" alt="Cardápio digital: aberto pelo celular e editado direto no sistema"></a>
+<a href="https://danbrkz.ink"><img src="assets/portfolio.svg" width="49%" alt="Portfólio: danbrkz.ink"></a>
 
 ### 🛠️ Tecnologias
 
@@ -44,8 +43,6 @@ e que a equipe aprende a usar em minutos.
 
 ### 📫 Contato
 
-<p>
-  <a href="https://danbrkz.ink"><img src="https://img.shields.io/badge/Portf%C3%B3lio-danbrkz.ink-FF6B3D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
-  <a href="https://www.linkedin.com/in/danbrkz/"><img src="https://img.shields.io/badge/LinkedIn-danbrkz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:danielartzofc@outlook.com"><img src="https://img.shields.io/badge/E--mail-danielartzofc%40outlook.com-141414?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail"></a>
-</p>
+<a href="https://danbrkz.ink"><img src="assets/contato-portfolio.svg" width="32%" alt="Portfólio: danbrkz.ink"></a>
+<a href="https://www.linkedin.com/in/danbrkz/"><img src="assets/contato-linkedin.svg" width="32%" alt="LinkedIn: in/danbrkz"></a>
+<a href="mailto:danielartzofc@outlook.com"><img src="assets/contato-email.svg" width="32%" alt="E-mail: danielartzofc@outlook.com"></a>
