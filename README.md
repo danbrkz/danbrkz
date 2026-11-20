@@ -43,7 +43,7 @@ sistema, interface e publicação, para entregar um produto pronto pra usar.
 
 ### 📫 Contato
 
-<a href="https://wa.me/5562993144825"><img src="assets/contato-whatsapp.svg" width="49%" alt="WhatsApp: (62) 99314-4825"></a>
-<a href="mailto:danielartzofc@outlook.com"><img src="assets/contato-email.svg" width="49%" alt="E-mail: danielartzofc@outlook.com"></a>
-<a href="https://www.linkedin.com/in/danbrkz/"><img src="assets/contato-linkedin.svg" width="49%" alt="LinkedIn: in/danbrkz"></a>
-<a href="https://danbrkz.ink"><img src="assets/contato-portfolio.svg" width="49%" alt="Portfólio: danbrkz.ink"></a>
+<a href="https://wa.me/5562993144825"><img src="assets/contato-whatsapp.svg" width="24%" alt="WhatsApp: (62) 99314-4825"></a>
+<a href="mailto:danielartzofc@outlook.com"><img src="assets/contato-email.svg" width="24%" alt="E-mail: danielartzofc@outlook.com"></a>
+<a href="https://www.linkedin.com/in/danbrkz/"><img src="assets/contato-linkedin.svg" width="24%" alt="LinkedIn: in/danbrkz"></a>
+<a href="https://danbrkz.ink"><img src="assets/contato-portfolio.svg" width="24%" alt="Portfólio: danbrkz.ink"></a>
