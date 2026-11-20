@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" width="240" height="64" role="img" aria-label="Portfólio">
+  <defs>
+    <style>.t { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }</style>
+    <radialGradient id="g" cx="0" cy=".5" r=".8">
+      <stop offset="0" stop-color="#FF6B3D" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#FF6B3D" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x=".5" y=".5" width="239" height="63" rx="32" fill="#111113" stroke="#2B2B30"/>
+  <rect x=".5" y=".5" width="239" height="63" rx="32" fill="url(#g)"/>
+  <circle cx="32" cy="32" r="20" fill="#FF6B3D"/>
+  <g transform="translate(20.5 20.5) scale(.96)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></g>
+  <text x="64" y="38.5" class="t" font-size="18" font-weight="700" fill="#F1EFEA">Portfólio</text>
+  <text x="214" y="39" class="t" font-size="16" fill="#9C988F" text-anchor="middle">↗</text>
+</svg>
