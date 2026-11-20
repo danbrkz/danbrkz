@@ -5,15 +5,15 @@
 ## Olá, eu sou o Daniel 👋
 
 Desenvolvedor web de Goiânia (GO) e estudante de Análise e Desenvolvimento de Sistemas.
-Construo sistemas simples de usar para o dia a dia de negócios: rápidos, que rodam no celular
-e que a equipe aprende a usar em minutos.
+Desenvolvo aplicações completas, do backend ao frontend. Cuido de tudo: banco de dados, regras do
+sistema, interface e publicação, para entregar um produto pronto pra usar.
 
 ### 🚀 Rodando hoje
 
 <a href="https://danbrkz.ink/#projetos"><img src="assets/aura.svg" width="100%" alt="Sistema Aura Lounge: gestão de casa noturna com pedidos por pulseira, caixa, estoque, relatórios e usuários"></a>
 
 <a href="https://auralounge.com.br"><img src="assets/cardapio.svg" width="49%" alt="Cardápio digital: aberto pelo celular e editado direto no sistema"></a>
-<a href="https://danbrkz.ink"><img src="assets/portfolio.svg" width="49%" alt="Portfólio: danbrkz.ink"></a>
+<a href="https://danbrkz.ink/treino"><img src="assets/treine.svg" width="49%" alt="Treinê: gestor de treinos com cargas, descanso entre séries e ranking entre amigos"></a>
 
 ### 🛠️ Tecnologias
 
@@ -43,6 +43,7 @@ e que a equipe aprende a usar em minutos.
 
 ### 📫 Contato
 
-<a href="https://danbrkz.ink"><img src="assets/contato-portfolio.svg" width="32%" alt="Portfólio: danbrkz.ink"></a>
-<a href="https://www.linkedin.com/in/danbrkz/"><img src="assets/contato-linkedin.svg" width="32%" alt="LinkedIn: in/danbrkz"></a>
-<a href="mailto:danielartzofc@outlook.com"><img src="assets/contato-email.svg" width="32%" alt="E-mail: danielartzofc@outlook.com"></a>
+<a href="https://wa.me/5562993144825"><img src="assets/contato-whatsapp.svg" width="49%" alt="WhatsApp: (62) 99314-4825"></a>
+<a href="mailto:danielartzofc@outlook.com"><img src="assets/contato-email.svg" width="49%" alt="E-mail: danielartzofc@outlook.com"></a>
+<a href="https://www.linkedin.com/in/danbrkz/"><img src="assets/contato-linkedin.svg" width="49%" alt="LinkedIn: in/danbrkz"></a>
+<a href="https://danbrkz.ink"><img src="assets/contato-portfolio.svg" width="49%" alt="Portfólio: danbrkz.ink"></a>
