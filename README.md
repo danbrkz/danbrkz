@@ -15,7 +15,7 @@ sistema, interface e publicação, para entregar um produto pronto pra usar.
 <a href="https://auralounge.com.br"><img src="assets/cardapio.svg" width="49%" alt="Cardápio digital: aberto pelo celular e editado direto no sistema"></a>
 <a href="https://danbrkz.ink/treino"><img src="assets/treine.svg" width="49%" alt="Treinê: gestor de treinos com cargas, descanso entre séries e ranking entre amigos"></a>
 
-<a href="https://danbrkz.ink/criatorio/"><img src="assets/gestao.svg" width="100%" alt="Gestão DHB: painel para criadores de aves com plantel, genealogia, reprodução, anilhas, vitrine e calculadora de mutações"></a>
+<a href="https://danbrkz.ink/criatorio/"><img src="assets/gestao-dhb.svg" width="100%" alt="Gestão DHB: painel para criadores de aves com plantel, genealogia, reprodução, anilhas, vitrine e calculadora de mutações"></a>
 
 ### 🛠️ Tecnologias
 
